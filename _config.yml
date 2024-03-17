@@ -41,17 +41,17 @@ plugins:
 
 author:
   name   : "Sammy"
-  bio    : "Large-scale System Design, Operating Systems, Networking, Performance / Reliability Engineering, Machine Learning"
+  bio    : "System Design, Operating Systems, Networking, Performance / Reliability Engineering, Machine Learning"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/MixtureModels"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/MixtureModels"
 
 defaults:
   # _posts
